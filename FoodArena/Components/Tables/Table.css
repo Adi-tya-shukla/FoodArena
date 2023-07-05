@@ -1,0 +1,33 @@
+.table-container {
+    width: 400px;
+    margin: 25px;
+    padding: 15px;
+    border: 2px groove #021547;
+    border-radius: 10px;
+    background-color: rgba(203, 218, 206, 0.5);
+  }
+  
+  .table-container h3 {
+    text-align: center;
+    color: #333;
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+  
+  .table-container p {
+    color: #666;
+    margin: 0;
+  }
+  
+  .table-container ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .table-container li {
+    margin-bottom: 5px;
+  }
+  
+  .table-container li strong {
+    font-weight: bold;
+  }

@@ -1,0 +1,12 @@
+.table-bill-container {
+    display: flex;
+    flex-wrap: wrap;
+  }
+
+  .table-bill-container h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 52pc;
+    margin-top: 5pc;
+    text-shadow: 50cm;
+
+  }

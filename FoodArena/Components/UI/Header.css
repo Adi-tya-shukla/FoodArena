@@ -1,0 +1,26 @@
+.header {
+    background-color: #9cd0e0;
+    color: #fff;
+    padding: 20px;
+  }
+  
+  .header h1 {
+    margin: 0;
+    font-size: 24px;
+    padding-left: 10pc;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+  .main-image {
+    width: 100%;
+    height: 25rem;
+    z-index: 0;
+    overflow: hidden;
+  }
+  
+  .main-image img {
+    width: 110%;
+    height: 100%;
+    object-fit: cover;
+    transform: rotateZ(-5deg) translateY(-8rem) translateX(-4rem);
+
+  }
